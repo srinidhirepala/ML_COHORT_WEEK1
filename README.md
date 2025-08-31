@@ -46,6 +46,13 @@ The notebook/script includes the following steps:
 ### 1. Clone the Repository  
 ```bash
 git clone https://github.com/<your-username>/titanic-eda.git
-cd titanic-eda
+cd titanic-eda```
+
+### 2.Run in Jupyter/Colab
+```bash
+  pip install -r requirements.txt
+  jupyter notebook```
+
+
 
 
